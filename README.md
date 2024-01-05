@@ -18,7 +18,7 @@ is a lightweight markup language for creating formatted text using a plain-text 
 
 ### Git
 
-Learn Git
+learn Git
 
 > Documentation:
 > 
