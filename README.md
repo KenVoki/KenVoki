@@ -17,6 +17,9 @@ is a lightweight markup language for creating formatted text using a plain-text 
 ---
 
 ### Git
+
+Learn Git
+
 > Documentation:
 > 
 > https://git-scm.com/doc
