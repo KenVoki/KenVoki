@@ -1,8 +1,6 @@
-# README.md
+# 👋 Hi, I’m @KenVoki
 
-👋 Hi, I’m @KenVoki
-
-📫 How to reach me
+# 📫 How to reach me
 
 ---
 
