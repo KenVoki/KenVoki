@@ -29,3 +29,11 @@ learn Git
 > https://git-scm.com/book/en/v2
 
 ---
+
+### Linux
+
+> GuiaFoca (Gleydson Maziolli):
+>
+> https://www.guiafoca.org/
+
+---
