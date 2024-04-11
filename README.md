@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @KenVoki
 
-# 📫 How to reach me
-
 ---
 
 ### Markdown (.md)
