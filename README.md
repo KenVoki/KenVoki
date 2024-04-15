@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KenVoki
+# 👋 Hi, I’m @KenVoki (Kevin Oki)
 
 ---
 
